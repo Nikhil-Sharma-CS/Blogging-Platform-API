@@ -10,7 +10,7 @@ This also implements various concepts of mappings like **One to One**, **One to 
 
 This project is hosted on a remote server with a static IP.
 
-This is the static IP along with swagger UI link **http://65.2.82.17:8080/swagger-ui/index.html#/**.
+This is the static IP along with swagger UI link **http://3.109.203.237:8080/swagger-ui/index.html#/**.
 
 ## 🚀 About Me
 *Hi, My name is Nikhil Sharma*,
