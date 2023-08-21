@@ -110,6 +110,33 @@ I'm a full stack developer trainee at Geekster. I have knowledge of Java, OOPs, 
 
 - *That remote database server is used in our project which is also hosted on a remote AWS server, so that another person can access project.*
 
+## Screenshots
+
+- Below are some screenshots of how code looks like and results of some of its functionalities
+
+   - Code Show
+  
+   ![Code Show](https://github.com/Nikhil-Sharma-CS/Blogging-Platform-API/assets/72157075/e212acce-3032-424d-9c88-26c11a704551)
+
+   - Code Run
+  
+   ![Code Running](https://github.com/Nikhil-Sharma-CS/Blogging-Platform-API/assets/72157075/c0f2af1d-3a99-4acb-a09e-16bc3258d78e)
+
+   - Sign Out
+     
+   ![Sign Out](https://github.com/Nikhil-Sharma-CS/Blogging-Platform-API/assets/72157075/68d08b89-562c-4c7f-b0ef-f57f0b8d68c0)
+
+   - See Comments
+     
+   ![See Comments](https://github.com/Nikhil-Sharma-CS/Blogging-Platform-API/assets/72157075/da661ef9-a413-4754-b055-fafd4ac78500)
+
+   - Read Post
+     
+   ![Read Post](https://github.com/Nikhil-Sharma-CS/Blogging-Platform-API/assets/72157075/03b869bb-6338-4221-9cc5-af88a7d04305)
+
+
+
+
 ## Summary
 
 *This project performs the task which a user can perform on a Blogging site. Like post a blog, reading it, commenting on the blog/post etc. with various types of API's like **Get, Post, Put, Delete***.
