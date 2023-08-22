@@ -8,9 +8,6 @@ This also uses **Relational Data** and **JPA** for data source.
 
 This also implements various concepts of mappings like **One to One**, **One to Many**, etc.
 
-This project is hosted on a remote server with a static IP.
-
-This is the static IP along with swagger UI link **http://3.109.203.237:8080/swagger-ui/index.html#/**.
 
 ## 🚀 About Me
 *Hi, My name is Nikhil Sharma*,
@@ -106,9 +103,8 @@ I'm a full stack developer trainee at Geekster. I have knowledge of Java, OOPs, 
 
 - *This kind of data persists forever and we use **SQL** to manipulate this data via MYSQL.*
 
-- *The database of this project is hosted on a remote AWS server.*
+- *The database of this project is hosted on a local SQL server.*
 
-- *That remote database server is used in our project which is also hosted on a remote AWS server, so that another person can access project.*
 
 ## Screenshots
 
